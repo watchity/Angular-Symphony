@@ -36,5 +36,8 @@ Tots aquests passos són completament opcionals i si el desenvolupador té quals
 
 ### Links útils
 
-Open Opus API: https://openopus.org/
-
+- Open Opus API: https://openopus.org/
+- Django: https://www.djangoproject.com/
+- nvm: https://github.com/nvm-sh/nvm
+- Angular: https://angular.io/
+- RxJS: https://rxjs.dev/
