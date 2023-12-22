@@ -18,7 +18,7 @@ Per altra banda, s'haurà de preparar una petita API feta en Django que reculli 
 
 ### Entrega
 
-S'haurà de fer un fork d'aquest repositori i treballar a l'usuari personal de GitHub del desenvolupador. El repositori que es creï haurà de ser privat i se li haurà de donar accés de lectura a l'usuari 'watchity'. En aquest repositori es treballarà tota la part de frontend. Per la part de backend, s'haurà de fer o bé un altre repositori, o fer-nos arribar el codi en un .zip per correu.
+S'haurà de fer un fork d'aquest repositori i treballar a l'usuari personal de GitHub del desenvolupador. En aquest repositori es treballarà tota la part de frontend i simplement se'ns haurà de fer arribar una url. Per la part de backend, s'haurà de fer o bé un altre repositori, o fer-nos arribar el codi en un .zip per correu.
 
 ### Utilitats
 
